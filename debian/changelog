@@ -1,3 +1,10 @@
+thrift (0.17.0reddit1~pyonly) UNRELEASED; urgency=medium
+
+  * Python only build of packages, as some of the other languages don't build
+    cleanly for ARM.
+
+ -- Jason Harvey <jason@reddit.com>  Mon, 26 Sep 2022 16:09:27 -0800
+
 thrift (0.17.0) stable; urgency=low
 
   * update to 0.17.0
